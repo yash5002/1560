@@ -14,7 +14,7 @@ public class lightbulbTest {
 		mybulb= new lightbulb(1000);
 		System.out.println("ADDED WATTAGE");
 		System.out.println("1000");
-		System.out.println("1000");
+		System.out.println("Sucessfull");
 
 
 	}
